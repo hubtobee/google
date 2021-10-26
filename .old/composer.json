@@ -32,7 +32,13 @@
     },
     "autoload": {
         "psr-4": {
-            "\\": "src/"
-        }
+            "": ".old/"
+        },
+        "files": [
+            ".old/aliases.php"
+        ],
+        "classmap": [
+            ".old/aliases.php"
+        ]
     }
 }
