@@ -15,6 +15,9 @@
         "psr-4": {
             "Google\\Service\\": "src"
         },
+        "classmap": [
+            "src"
+        ],
         "files": [
             "autoload.php"
         ]
