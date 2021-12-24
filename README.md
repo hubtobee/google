@@ -4,8 +4,9 @@
 > It holds :
 > - Google API Client
 > - Google API Services :
->   - Calendar
->   - OAuth2
+>  - Calendar
+>  - Directory
+>  - OAuth2
 > - Google Auth
 > 
 > Based on `"google/apiclient": "^2.10"`
